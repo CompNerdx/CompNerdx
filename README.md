@@ -1,10 +1,8 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-# Hi all you kool kidz
+#I'm CompNerd
 
-I'm CompNerd. 
-
-Well I don't know what to say here so bye
+I do stuff sometimes.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux%2FWindows-2bbc8a)
