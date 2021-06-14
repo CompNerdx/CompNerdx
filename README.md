@@ -6,6 +6,7 @@ I do stuff sometimes.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux%2FWindows-2bbc8a)
+![](https://img.shields.io/badge/Browser-Firefox-informational?style=flat&logo=firefox&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML5%2FCSS3-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python3-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
