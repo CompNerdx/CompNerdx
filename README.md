@@ -5,13 +5,14 @@
 I do stuff sometimes.
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Windows%2FLinux-2bbc8a)
-![](https://img.shields.io/badge/Browser-Firefox-informational?style=flat&logo=firefox&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-HTML5%2FCSS3-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python3-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=firefox&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Debian-informational?style=flat&logo=firefox&color=2bbc8a)
+![](https://img.shields.io/badge/Browser-Firefox-informational?style=flat&logo=firefox&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&color=2bbc8a)
+![](https://img.shields.io/badge/Code-HTML5%2FCSS3-informational?style=flat&logo=html5&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python3-informational?style=flat&logo=python&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
 
